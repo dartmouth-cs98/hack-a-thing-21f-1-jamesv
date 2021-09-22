@@ -16,6 +16,10 @@ N/A, I worked alone.
 
 I learned a lot about how to build and design iOS apps. I learned some of the syntax of the Swift programming language including building custom data structures. I also worked a lot with front-end and realized it was not my favorite. I enjoyed working on the backend with Swift way more. Working with storyboards was way more challenging than I expected.
 
+## What didn't work
+
+I followed the tutorials pretty closely. I was using a different version of xcode as them so some things had different names, but I think I got everything to work properly. However, for the storyboard tutorial, I couldn't get the two gray lines that are used as dividers to show up when I run the simulator.
+
 ## Authors
 
 James Verschleiser
